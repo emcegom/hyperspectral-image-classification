@@ -1,0 +1,26 @@
+KSC:
+  file_suffix: ".mat"
+
+  hsi_file_prefix: "KSC"
+  hsi_file_key: "KSC"
+
+  gt_file_prefix: "KSC_gt"
+  gt_file_key: "KSC_gt"
+
+  label_name_en: [
+    "Background",
+    "Scrub",
+    "Willow swamp",
+    "CP hammock",
+    "CP/Oak",
+    "Slash pine",
+    "Oak/Broadleaf",
+    "Hardwood Swamp",
+    "Graminoid marsh",
+    "Spartina marsh",
+    "Cattail marsh",
+    "Salt marsh",
+    "Mud flats",
+    "Water"
+  ]
+  label_name_zh: ""
